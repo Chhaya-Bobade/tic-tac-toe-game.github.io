@@ -1,5 +1,7 @@
 # tic-tac-toe-game.github.io
 
+[Deploy link is here](https://chhaya-bobade.github.io/tic-tac-toe-game.github.io/)
+
 In general in our game all what we need to do, is:
 
 1. A 1D Array called "gameData" to store the players moves.
